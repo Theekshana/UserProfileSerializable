@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Serializable</string>
+    <string name="Edit">Edit</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Age">Age</string>
+    <string name="Phone_number">Phone_number</string>
+    <string name="Submit">Submit</string>
+    <string name="name">name</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="phone_number">Phone_number</string>
+</resources>
